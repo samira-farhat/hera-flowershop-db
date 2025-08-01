@@ -41,9 +41,50 @@ This application allows flower shop staff to manage customers, items, suppliers,
 
 ## Screenshots
 
-  Here are some snapshots of the FlowerShop Management System in action:
+Here are some snapshots of the FlowerShop Management System in action:
 
-  - Main Dashboard
+- Main Dashboard
+    
+  ![dashboard](screenshots/dashboard.png)
+
+- Items View
+    
+  ![items](screenshots/items.png)
+
+- Add Item
+    
+  ![add_item](screenshots/add_item.png)
+
+- Search Item
+    
+    ![search_item](screenshots/search_item.png)
+
+- Edit Item
+    
+    ![edit_item](screenshots/edit_item.png)
+
+- Delete Item
+    
+    ![delete_item](screenshots/delete_item.png)
+
+- Suppliers View
+    
+    ![suppliers](screenshots/suppliers.png)
+
+- Add Supplier
+    
+    ![add_supplier](screenshots/add_supplier.png)
+
+- Main Dashboard
+    
     ![dashboard](screenshots/dashboard.png)
+
+
+
+
+
+
+
+
 
 
