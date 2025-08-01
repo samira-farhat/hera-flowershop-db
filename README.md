@@ -74,10 +74,109 @@ Here are some snapshots of the FlowerShop Management System in action:
 - Add Supplier
     
     ![add_supplier](screenshots/add_supplier.png)
-
-- Main Dashboard
+  
+- Search Supplier
     
-    ![dashboard](screenshots/dashboard.png)
+    ![search_supplier](screenshots/search_supplier.png)
+
+- Edit Supplier
+    
+    ![edit_supplier](screenshots/edit_supplier.png)
+
+- Delete Supplier
+    
+    ![delete_supplier](screenshots/delete_supplier.png)
+
+- Supplier Added to the Item
+
+   ![supplier_added_to_item](screenshots/supplier_added_to_item.png)
+
+- Orders
+
+   ![orders](screenshots/orders.png)
+
+- Search Orders
+
+   ![search_order](screenshots/search_order.png)
+
+- Filter Orders
+
+   ![filter_orders](screenshots/filter_orders.png)
+
+- Place new Order
+
+  **Step 1**
+
+   ![add_order_step1](screenshots/add_order_step1.png)
+
+  **Step 2**
+
+   ![add_order_step2](screenshots/add_order_step2.png)
+
+  **Step 3**
+
+   ![add_order_step3](screenshots/add_order_step3.png)
+
+- Order Details
+
+   ![order_details](screenshots/order_details.png)
+
+- Edit Order
+
+   ![edit_order](screenshots/edit_order.png)
+
+- Items Stock Adjustment After Order Placement 
+
+   ![item_stock_adjustment](screenshots/item_stock_adjustment.png)
+
+- Customer Loyalty Points Adjustment After Order Placement 
+
+   ![loyalty_points_adjustment](screenshots/loyalty_points_adjustment.png)
+
+- Delete Order
+
+   ![delete_order](screenshots/delete_order.png)
+
+- Customers
+
+   ![customers](screenshots/customers.png)
+
+- Customers Order History
+
+   ![customer_order_history](screenshots/customer_order_history.png)
+
+- This Month's Customers
+
+   ![this_months_customers](screenshots/this_months_customers.png)
+
+- New Customers This Month
+
+   ![new_customers_this_month](screenshots/new_customers_this_month.png)
+
+- Edit Customer
+
+   ![edit_customer](screenshots/edit_customer.png)
+
+- Delete Customer
+
+   ![delete_customer](screenshots/delete_customer.png)
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+
+
 
 
 
