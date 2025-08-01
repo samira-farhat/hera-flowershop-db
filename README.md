@@ -39,9 +39,11 @@ This application allows flower shop staff to manage customers, items, suppliers,
 - **MySQL** – Database backend
 - **MySQL Connector/Python** – for Python–MySQL interaction
 
-## 🌟 Demo
+## Screenshots
 
-🎥 [Click here to watch the demo video](https://your-link-here.com)
+  Here are some snapshots of the FlowerShop Management System in action:
 
-> The video demonstrates the GUI features, including customer management, item selection, order placement, supplier details, and order history navigation.
+  - Main Dashboard
+    ![dashboard](screenshots/dashboard.png)
+
 
